@@ -1,0 +1,14 @@
+- C# é a linguagem oficial pra quem pretende desenvolver para WINDOWS
+- é uma linguagem compilada
+- ela compila pra CIL (common intermediate language)
+- o CIL roda na CLR (common language runtime)
+- CLR tem o conceito de máquina virtual (semelhante a JRE)
+
+ASPNET            = criada pela MS.
+ASPNET MVC        = utiliza o padrão mvc que é utilizado nas páginas web
+ASPNET WEBFORMS   = componentização da tela
+ASPNET WEBAPI     = projeto para criação de API's entre aplicações
+MONO (PROJETO)    = permite que aplicações C# possam rodar no MAC/LINUX
+ZAMARIN           = permite que você utilize C# portando para todas as plataformas mobile de forma nativa (sem perder qualidade)
+UNITY             = permite desenvolver jogos para todas as plataformas do mercado, e utiliza o C#
+.NET (PLATAFORMA) = utiliza da Common Language Runtime (CLR) para rodar em todas as plataformas
